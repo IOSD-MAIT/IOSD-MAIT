@@ -32,10 +32,12 @@
 - Flutter Development<br>
 - Blockchain Development<br>
 
-
-![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=kunalchhabra37&count_private=true&include_all_commits=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalchhabra37&layout=compact)
-
+<p align = "center">
+<img src = "https://github-readme-stats.vercel.app/api?username=KushagraJain58-cmd&show_icons=true&theme=dracula" />
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KushagraJain58-cmd&theme=dracula" /> <br> <br> 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KushagraJain58-cmd&theme=dracula" /> <br> <br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KushagraJain58-cmd&theme=dracula&custom_title=streak-stats&hide_border=true&layout=compact" /><br>
+</p>
 
 
 
