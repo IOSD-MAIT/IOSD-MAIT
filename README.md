@@ -34,9 +34,10 @@
 
 
 <div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=IOSD-MAIT&show_icons=true&theme=gotham" alt="apoorvdwi" />  
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IOSD-MAIT&layout=compact&show_icons=true&theme=gotham&hide=jupyter%20notebook" alt="IOSD-MAIT" />
-  <img height="180px" src="http://github-readme-streak-stats.herokuapp.com?user=IOSD-MAIT&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="streak-IOSD-MAIT" />
+  <img src = "https://github-readme-stats.vercel.app/api?username=KushagraJain58-cmd&show_icons=true&theme=dracula" />
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KushagraJain58-cmd&theme=dracula" /> <br> <br> 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KushagraJain58-cmd&theme=dracula" /> <br> <br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KushagraJain58-cmd&theme=dracula&custom_title=streak-stats&hide_border=true&layout=compact" /><br>
 </div>
 
 
