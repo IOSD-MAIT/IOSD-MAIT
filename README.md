@@ -23,14 +23,14 @@
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 <br>
-<strong>Different Domains that we work on: </strong>
+<strong>Different Domains that we work on: <br></strong>
 - Web Development<br>
 - Android Development<br>
-- DSA
-- Competetive Programming
-- UI/UX
-- Flutter Development
-- Blockchain Development
+- DSA<br>
+- Competetive Programming<br>
+- UI/UX<br>
+- Flutter Development<br>
+- Blockchain Development<br>
 
 
 <div align="center">
