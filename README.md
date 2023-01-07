@@ -29,8 +29,6 @@
 - Flutter Development
 - Blockchain Development
 
-**📈 My GitHub Stats**
-
 
 <div align="center">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=IOSD-MAIT&show_icons=true&theme=gotham" alt="apoorvdwi" />  
