@@ -24,8 +24,8 @@
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 <br>
 <strong>Different Domains that we work on: </strong>
-- Web Development
-- Android Development
+- Web Development<br>
+- Android Development<br>
 - DSA
 - Competetive Programming
 - UI/UX
