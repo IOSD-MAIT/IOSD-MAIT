@@ -1,5 +1,6 @@
 <h2>Hi there, fellow &#60coders/&#62  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-<br><br>IOSD-MAIT- One of the Largest Technical Society of MAIT</h2>
+<!-- <br><br>IOSD-MAIT- One of the Largest Technical Society of MAIT</h2> --></h2>
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&width=1000&lines=IOSD-MAIT- One of the Largest Technical Society of MAIT!!)](https://git.io/typing-svg)
 <br> <p>We at International Organization of Software Developers, believe in aggrandizing the development purlieu in the country. We plan to provide a well-resourced dais for developers to come together and create projects, -Have a tete-a-tete- on their ideas and learn in an adjutant environment. We provide mentorship and collaborations on projects in both public and private sector. IOSD is the only student-organization that is completely development oriented. At first, students are given interactive technical sessions by senior members so that all the students can get familiar with the new development culture.</p>
 
 
